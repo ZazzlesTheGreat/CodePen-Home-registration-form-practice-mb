@@ -1,2 +1,2 @@
-# CodePen-Home-registration-form-practice-mb
+# Registration-form-practice-mb
 Practicing creating a registration form using freecodecamp. 
